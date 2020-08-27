@@ -16,6 +16,6 @@
     <img src="https://img.shields.io/badge/-Daily interview-orange.svg"
   </a>
   <a href="https://github.com/Moosphan">
-    <img src="https://komarev.com/ghpvc/?username=Moosphan&color=blue&label=Views" />
+    <img src="https://komarev.com/ghpvc/?username=Moosphan&color=ff69b4&label=Views" />
   </a>  
 </p>
