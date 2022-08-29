@@ -9,7 +9,7 @@
   </a>
 </p>-->
 <p align="center">
-  <a href="https://moosphan.github.io/archives/">
+  <a href="https://dorck.cn/">
     <img src="https://img.shields.io/badge/-My blog-brightness.svg" />
   </a>
   <a href="https://github.com/Moosphan/Android-Daily-Interview">
