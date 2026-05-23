@@ -1,0 +1,268 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Moosphan neural lattice profile hero</title>
+  <desc id="desc">A dark neural field with a dense triangulated center, distributed signal nodes, and centered skill capsules.</desc>
+  <defs>
+    <linearGradient id="bg" x1="88" y1="52" x2="1184" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#030811"/>
+      <stop offset="0.54" stop-color="#07111C"/>
+      <stop offset="1" stop-color="#091522"/>
+    </linearGradient>
+    <linearGradient id="cool" x1="150" y1="480" x2="1118" y2="142" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5F9F9B"/>
+      <stop offset="0.42" stop-color="#7397A8"/>
+      <stop offset="0.74" stop-color="#8090BC"/>
+      <stop offset="1" stop-color="#8A8FB0"/>
+    </linearGradient>
+    <linearGradient id="warm" x1="196" y1="520" x2="1134" y2="212" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AE8C6C"/>
+      <stop offset="0.48" stop-color="#9E8978"/>
+      <stop offset="1" stop-color="#7E8EAB"/>
+    </linearGradient>
+    <filter id="halo" x="0" y="0" width="1280" height="640" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="30" fill="url(#bg)"/>
+
+  <g opacity="0.16">
+    <path d="M72 92H1210" stroke="#173047"/>
+    <path d="M72 162H1210" stroke="#173047"/>
+    <path d="M72 232H1210" stroke="#173047"/>
+    <path d="M72 302H1210" stroke="#173047"/>
+    <path d="M72 372H1210" stroke="#173047"/>
+    <path d="M72 442H1210" stroke="#173047"/>
+    <path d="M72 512H1210" stroke="#173047"/>
+    <path d="M72 582H1210" stroke="#173047"/>
+    <path d="M146 60V580" stroke="#173047"/>
+    <path d="M258 60V580" stroke="#173047"/>
+    <path d="M370 60V580" stroke="#173047"/>
+    <path d="M482 60V580" stroke="#173047"/>
+    <path d="M594 60V580" stroke="#173047"/>
+    <path d="M706 60V580" stroke="#173047"/>
+    <path d="M818 60V580" stroke="#173047"/>
+    <path d="M930 60V580" stroke="#173047"/>
+    <path d="M1042 60V580" stroke="#173047"/>
+    <path d="M1154 60V580" stroke="#173047"/>
+  </g>
+
+  <g opacity="0.16" stroke="#264462" stroke-width="1.05">
+    <path d="M62 118L112 92L182 148L248 102L326 162L420 110L520 170L610 118L700 90L790 150L860 112L950 140L1040 98L1140 160L1210 110"/>
+    <path d="M90 260L182 230L280 290L380 240L470 300L560 250L650 320L730 248L800 320L870 250L950 320L1040 270L1130 330L1210 260"/>
+    <path d="M120 430L220 380L300 470L400 400L500 460L590 390L680 470L760 410L850 480L940 420L1030 470L1110 400L1190 460"/>
+    <path d="M148 516L250 434L344 500L458 420L574 486L690 404L816 458L930 382L1054 438L1182 364"/>
+    <path d="M112 566L212 490L332 554L456 476L586 540L714 460L842 520L970 444L1104 504"/>
+    <path d="M88 544L180 468L286 522L400 446L522 504L646 420L770 482L892 406L1016 462L1148 390"/>
+  </g>
+
+  <g opacity="0.22" stroke="#2A4868" stroke-width="1">
+    <path d="M62 118L90 260L120 430"/>
+    <path d="M112 92L182 230L220 380"/>
+    <path d="M182 148L280 290L300 470"/>
+    <path d="M248 102L380 240L400 400"/>
+    <path d="M326 162L470 300L500 460"/>
+    <path d="M420 110L560 250L590 390"/>
+    <path d="M520 170L620 218L650 320L680 470"/>
+    <path d="M610 118L680 210L730 248L760 410"/>
+    <path d="M700 90L730 210L790 150L800 320"/>
+    <path d="M790 150L780 220L870 250L850 480"/>
+    <path d="M860 112L870 250L950 140L940 420"/>
+    <path d="M950 140L950 320L1040 98L1030 470"/>
+    <path d="M1040 98L1040 270L1140 160L1110 400"/>
+    <path d="M1140 160L1130 330L1210 110L1190 460"/>
+  </g>
+
+  <g opacity="0.24" stroke="#294D70" stroke-width="1" stroke-dasharray="7 11">
+    <path d="M210 380L332 318L470 360L620 218L760 274L936 164L1088 224"/>
+    <path d="M166 522L300 414L458 452L650 320L828 372L992 316L1148 376"/>
+    <path d="M228 572L360 486L536 534L714 460L892 502L1076 430"/>
+  </g>
+
+  <g opacity="0.22" stroke="#203B58" stroke-width="1">
+    <path d="M182 148L248 102L326 162"/>
+    <path d="M248 102L326 162L420 110"/>
+    <path d="M326 162L420 110L520 170"/>
+    <path d="M520 170L610 118L620 218"/>
+    <path d="M610 118L680 210L700 90"/>
+    <path d="M680 210L730 210L780 220"/>
+    <path d="M730 210L790 150L860 112"/>
+    <path d="M780 220L822 284L870 250"/>
+    <path d="M822 284L868 262L936 164"/>
+    <path d="M868 262L930 346L992 316"/>
+    <path d="M936 164L992 316L1070 212"/>
+    <path d="M992 316L1060 394L1108 214"/>
+    <path d="M1060 394L1180 324L1192 244"/>
+    <path d="M280 290L380 240L470 300"/>
+    <path d="M380 240L470 300L560 250"/>
+    <path d="M470 300L560 250L620 218"/>
+    <path d="M560 250L620 218L680 210"/>
+    <path d="M620 218L650 270L710 280"/>
+    <path d="M650 270L710 280L770 285"/>
+    <path d="M710 280L745 335L800 330"/>
+    <path d="M770 285L800 330L870 250"/>
+    <path d="M220 380L300 470L400 400"/>
+    <path d="M300 470L400 400L500 460"/>
+    <path d="M400 400L500 460L590 390"/>
+    <path d="M500 460L590 390L680 470"/>
+    <path d="M590 390L680 470L760 410"/>
+    <path d="M680 470L760 410L850 480"/>
+    <path d="M760 410L850 480L940 420"/>
+  </g>
+
+  <g opacity="0.66">
+    <path d="M320 366L420 386L590 390L742 372L840 392L918 432L1060 394" stroke="url(#cool)" stroke-width="2.2" opacity="0.66"/>
+    <path d="M590 344L690 330L745 335L800 330L930 346L1088 318" stroke="url(#warm)" stroke-width="2.1" opacity="0.62"/>
+    <path d="M680 210L760 274L868 262L936 246L992 316L1180 324" stroke="url(#cool)" stroke-width="2.1" opacity="0.58"/>
+    <path d="M420 386L590 344L760 274L930 346L1060 394" stroke="#8097A6" stroke-width="1.8" opacity="0.56"/>
+    <path d="M476 432L628 324L742 372L930 346L1088 318" stroke="#948E81" stroke-width="1.8" opacity="0.54"/>
+    <path d="M590 390L690 330L760 274L868 262" stroke="#7B93A8" stroke-width="1.6" opacity="0.52"/>
+    <path d="M590 344L680 210L822 284L936 164L1070 212" stroke="url(#cool)" stroke-width="1.8" opacity="0.5"/>
+    <path d="M628 324L710 280L760 410L930 346" stroke="#8B9189" stroke-width="1.6" opacity="0.48"/>
+    <path d="M742 372L822 284L992 316L918 432" stroke="#7E97A8" stroke-width="1.7" opacity="0.48"/>
+    <path d="M760 274L868 262L930 346L840 392L742 372L690 330L628 324L590 344Z" stroke="#93A1A8" stroke-width="1.2" opacity="0.34"/>
+    <path d="M868 262L936 246L1088 318L930 346Z" stroke="#999F91" stroke-width="1.2" opacity="0.32"/>
+    <path d="M590 344L628 324L760 274L745 335Z" stroke="#92A0A8" stroke-width="1.2" opacity="0.3"/>
+  </g>
+
+  <g filter="url(#halo)" opacity="0.16">
+    <circle cx="320" cy="366" r="8" fill="#7DAAA5"/>
+    <circle cx="420" cy="386" r="7" fill="#899DB4"/>
+    <circle cx="476" cy="432" r="8" fill="#8C98BC"/>
+    <circle cx="590" cy="344" r="8" fill="#7AA39E"/>
+    <circle cx="628" cy="324" r="9" fill="#98A1BE"/>
+    <circle cx="680" cy="210" r="8" fill="#78A6A0"/>
+    <circle cx="690" cy="330" r="7" fill="#A2A8BD"/>
+    <circle cx="742" cy="372" r="8" fill="#7AA39E"/>
+    <circle cx="760" cy="274" r="8" fill="#79A59F"/>
+    <circle cx="840" cy="392" r="8" fill="#80AAA4"/>
+    <circle cx="868" cy="262" r="9" fill="#99A0BB"/>
+    <circle cx="930" cy="346" r="8" fill="#AB8F75"/>
+    <circle cx="936" cy="164" r="9" fill="#7AA7A1"/>
+    <circle cx="992" cy="316" r="8" fill="#97A0BC"/>
+    <circle cx="1060" cy="394" r="8" fill="#7CA8A2"/>
+    <circle cx="1088" cy="318" r="8" fill="#7EA7A2"/>
+  </g>
+
+  <g opacity="0.92">
+    <circle cx="62" cy="118" r="2.3" fill="#7A8797"/>
+    <circle cx="112" cy="92" r="2.5" fill="#92A0B2"/>
+    <circle cx="182" cy="148" r="2.4" fill="#7A8797"/>
+    <circle cx="248" cy="102" r="2.4" fill="#92A0B2"/>
+    <circle cx="326" cy="162" r="2.5" fill="#7A8797"/>
+    <circle cx="420" cy="110" r="2.5" fill="#92A0B2"/>
+    <circle cx="520" cy="170" r="2.6" fill="#7A8797"/>
+    <circle cx="610" cy="118" r="2.5" fill="#92A0B2"/>
+    <circle cx="700" cy="90" r="2.6" fill="#92A0B2"/>
+    <circle cx="790" cy="150" r="2.6" fill="#7A8797"/>
+    <circle cx="860" cy="112" r="2.5" fill="#92A0B2"/>
+    <circle cx="950" cy="140" r="2.6" fill="#7A8797"/>
+    <circle cx="1040" cy="98" r="2.7" fill="#92A0B2"/>
+    <circle cx="1140" cy="160" r="2.6" fill="#7A8797"/>
+    <circle cx="1210" cy="110" r="2.4" fill="#92A0B2"/>
+    <circle cx="90" cy="260" r="2.3" fill="#7A8797"/>
+    <circle cx="182" cy="230" r="2.4" fill="#92A0B2"/>
+    <circle cx="280" cy="290" r="2.4" fill="#7A8797"/>
+    <circle cx="380" cy="240" r="2.5" fill="#92A0B2"/>
+    <circle cx="470" cy="300" r="2.4" fill="#7A8797"/>
+    <circle cx="560" cy="250" r="2.5" fill="#92A0B2"/>
+    <circle cx="620" cy="218" r="3" fill="#B0BECF"/>
+    <circle cx="680" cy="210" r="3.1" fill="#C0CEDF"/>
+    <circle cx="730" cy="210" r="3.2" fill="#C5D2E3"/>
+    <circle cx="780" cy="220" r="3.1" fill="#BDC9DA"/>
+    <circle cx="650" cy="270" r="3.2" fill="#C8D3E2"/>
+    <circle cx="710" cy="280" r="3.3" fill="#D3DCEC"/>
+    <circle cx="770" cy="285" r="3.1" fill="#C8D3E2"/>
+    <circle cx="650" cy="320" r="3.4" fill="#C5D1E3"/>
+    <circle cx="690" cy="330" r="3.8" fill="#DBE5F7"/>
+    <circle cx="745" cy="335" r="4.2" fill="#F0F5FF"/>
+    <circle cx="800" cy="330" r="3.8" fill="#E1E8F7"/>
+    <circle cx="730" cy="248" r="3.2" fill="#CAD6E8"/>
+    <circle cx="800" cy="320" r="3.2" fill="#CBD7E9"/>
+    <circle cx="870" cy="250" r="3" fill="#B3C1D3"/>
+    <circle cx="950" cy="320" r="2.8" fill="#8D9AAC"/>
+    <circle cx="1040" cy="270" r="2.8" fill="#8794A6"/>
+    <circle cx="1130" cy="330" r="2.7" fill="#7D8999"/>
+    <circle cx="1210" cy="260" r="2.5" fill="#97A4B6"/>
+    <circle cx="120" cy="430" r="2.3" fill="#7A8797"/>
+    <circle cx="220" cy="380" r="3.3" fill="#DCE7E2"/>
+    <circle cx="300" cy="470" r="3.8" fill="#D4C3B1"/>
+    <circle cx="400" cy="400" r="3.6" fill="#C5CBDD"/>
+    <circle cx="500" cy="460" r="3.7" fill="#BCD3CE"/>
+    <circle cx="590" cy="390" r="3.5" fill="#CDD6E2"/>
+    <circle cx="680" cy="470" r="3.5" fill="#B5CCC7"/>
+    <circle cx="760" cy="410" r="3.6" fill="#C4CBDA"/>
+    <circle cx="850" cy="480" r="2.8" fill="#8B98AA"/>
+    <circle cx="940" cy="420" r="3.2" fill="#B9D0CB"/>
+    <circle cx="1030" cy="470" r="2.7" fill="#8390A2"/>
+    <circle cx="1110" cy="400" r="3.3" fill="#B7CEC8"/>
+    <circle cx="1190" cy="460" r="2.7" fill="#92A0B2"/>
+    <circle cx="164" cy="510" r="4.8" fill="#B8D0CA"/>
+    <circle cx="220" cy="564" r="4.2" fill="#CBB9A6"/>
+    <circle cx="286" cy="522" r="4.4" fill="#C7CDDF"/>
+    <circle cx="320" cy="366" r="5.2" fill="#BDD3CE"/>
+    <circle cx="402" cy="428" r="4.2" fill="#C9B7A4"/>
+    <circle cx="420" cy="386" r="4.1" fill="#C0D5CF"/>
+    <circle cx="476" cy="432" r="4.9" fill="#CDD3E1"/>
+    <circle cx="574" cy="486" r="4.3" fill="#CAB7A4"/>
+    <circle cx="590" cy="344" r="4.2" fill="#BCD2CC"/>
+    <circle cx="628" cy="324" r="5.4" fill="#D0D5E2"/>
+    <circle cx="650" cy="270" r="4" fill="#C9B6A2"/>
+    <circle cx="680" cy="210" r="4.4" fill="#BCD2CD"/>
+    <circle cx="690" cy="330" r="4.5" fill="#D8DCE6"/>
+    <circle cx="710" cy="280" r="4.2" fill="#CFBEAC"/>
+    <circle cx="742" cy="372" r="5" fill="#BCD2CD"/>
+    <circle cx="745" cy="335" r="5.8" fill="#E4E8EE"/>
+    <circle cx="760" cy="274" r="4.6" fill="#BED3CD"/>
+    <circle cx="782" cy="386" r="5" fill="#BDD3CE"/>
+    <circle cx="822" cy="284" r="4.1" fill="#D0BEAB"/>
+    <circle cx="840" cy="392" r="4.6" fill="#BCD1CB"/>
+    <circle cx="868" cy="262" r="5.7" fill="#D1D6E2"/>
+    <circle cx="918" cy="432" r="4.3" fill="#CCBAA7"/>
+    <circle cx="930" cy="346" r="4.8" fill="#C9B7A4"/>
+    <circle cx="936" cy="164" r="6.1" fill="#BDD3CD"/>
+    <circle cx="936" cy="246" r="4.6" fill="#BCD2CC"/>
+    <circle cx="992" cy="316" r="5.1" fill="#CCD2E0"/>
+    <circle cx="1060" cy="394" r="4.8" fill="#BCD2CC"/>
+    <circle cx="1070" cy="212" r="5.2" fill="#CDD2DF"/>
+    <circle cx="1072" cy="336" r="4.4" fill="#CCB8A4"/>
+    <circle cx="1088" cy="318" r="5" fill="#BDD2CC"/>
+    <circle cx="1108" cy="214" r="4.9" fill="#BCD2CC"/>
+    <circle cx="1180" cy="324" r="4.2" fill="#CCB8A5"/>
+    <circle cx="1192" cy="244" r="4.2" fill="#CCD2E0"/>
+    <circle cx="1198" cy="148" r="3.6" fill="#C9D2E5"/>
+  </g>
+
+  <rect x="78" y="84" width="320" height="38" rx="19" fill="#0B1421" stroke="#21364E"/>
+  <circle cx="106" cy="103" r="6" fill="#42E5D5"/>
+  <text x="250" y="109" text-anchor="middle" fill="#D8E4F0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">builder / writer / toolmaker</text>
+
+  <text x="78" y="222" fill="#F5F8FD" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="90" font-weight="700">Moosphan</text>
+  <text x="82" y="278" fill="#AFC0D2" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30">knowledge in, systems out</text>
+
+  <rect x="332" y="378" width="188" height="36" rx="18" fill="#0B1421" stroke="#22545D"/>
+  <text x="426" y="401" text-anchor="middle" fill="#E4FFFB" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">AI writing systems</text>
+
+  <rect x="584" y="360" width="152" height="36" rx="18" fill="#0B1421" stroke="#304B77"/>
+  <text x="660" y="383" text-anchor="middle" fill="#ECF1FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Agent skills</text>
+
+  <rect x="844" y="390" width="172" height="36" rx="18" fill="#0B1421" stroke="#304B77"/>
+  <text x="930" y="413" text-anchor="middle" fill="#ECF1FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">knowledge linking</text>
+
+  <rect x="400" y="454" width="206" height="36" rx="18" fill="#0B1421" stroke="#684D2D"/>
+  <text x="503" y="477" text-anchor="middle" fill="#FFE9C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">story orchestration</text>
+
+  <rect x="778" y="500" width="158" height="36" rx="18" fill="#0B1421" stroke="#2A4D67"/>
+  <text x="857" y="523" text-anchor="middle" fill="#E4ECFF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Android craft</text>
+
+  <rect x="972" y="286" width="164" height="36" rx="18" fill="#0B1421" stroke="#22545D"/>
+  <text x="1054" y="309" text-anchor="middle" fill="#E4FFFB" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">developer tools</text>
+
+  <rect x="250" y="522" width="112" height="36" rx="18" fill="#0B1421" stroke="#22545D"/>
+  <text x="306" y="545" text-anchor="middle" fill="#E4FFFB" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Flutter</text>
+
+  <rect x="598" y="514" width="106" height="36" rx="18" fill="#0B1421" stroke="#6A4D2B"/>
+  <text x="651" y="537" text-anchor="middle" fill="#FFE9C7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Kotlin</text>
+
+  <rect x="950" y="446" width="136" height="36" rx="18" fill="#0B1421" stroke="#304B77"/>
+  <text x="1018" y="469" text-anchor="middle" fill="#ECF1FF" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">TypeScript</text>
+</svg>
