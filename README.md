@@ -1,21 +1,17 @@
 <p align="center">
-  <a href="https://github.com/Moosphan">
-    <img src="https://github-readme-stats.vercel.app/api?username=Moosphan&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
-  </a>
+  <img src="./assets/profile-hero-neural.svg" alt="Moosphan neural lattice profile hero" width="100%" />
 </p>
-<!--<p align="center">
-  <a href="https://github.com/Moosphan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-  </a>
-</p>-->
-<p align="center">
-  <a href="https://dorck.cn/">
-    <img src="https://img.shields.io/badge/-My blog-brightness.svg" />
-  </a>
-  <a href="https://github.com/Moosphan/Android-Daily-Interview">
-    <img src="https://img.shields.io/badge/-Daily interview-orange.svg"
-  </a>
-  <a href="https://github.com/Moosphan">
-    <img src="https://komarev.com/ghpvc/?username=Moosphan&color=ff69b4&label=Views" />
-  </a>  
-</p>
+
+### about me
+
+- 🧑‍💻 You can call me: Dorck Su
+- ✍️ writing: [dorck.cn](https://dorck.cn/) & [掘金](https://juejin.cn/user/2946346891100285) for notes, essays, and things I am building
+- 🛠️ work for: AI writing systems, agent skills, developer tools
+- 🧩 background: Android craft, Flutter, Kotlin, and TypeScript
+
+### projects
+
+- ⚡ [FlashResume](https://github.com/Moosphan/FlashResume): open-source, privacy-first online resume builder with multi-template editing, live preview, and PDF/image/JSON export
+- 🧮 [word-counter-skill](https://github.com/Moosphan/word-counter-skill): deterministic counting skill for Codex and Claude Code
+- 🔧 [efficient_tools](https://github.com/Moosphan/efficient_tools): small and sharp utilities for daily developer work
+- 📚 [Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview): a long-running Android knowledge series and interview note set
