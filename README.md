@@ -11,7 +11,7 @@
 
 ### projects
 
-- ⚡ [FlashResume](https://github.com/Moosphan/FlashResume): open-source, privacy-first online resume builder with multi-template editing, live preview, and PDF/image/JSON export
-- 🧮 [word-counter-skill](https://github.com/Moosphan/word-counter-skill): deterministic counting skill for Codex and Claude Code
-- 🔧 [efficient_tools](https://github.com/Moosphan/efficient_tools): small and sharp utilities for daily developer work
-- 📚 [Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview): a long-running Android knowledge series and interview note set
+- ⚡ [FlashResume](https://github.com/Moosphan/FlashResume): Open-source, privacy-first online resume builder with multi-template editing, live preview, and PDF/image/JSON export
+- 🚀 [hulk-skills](https://github.com/Moosphan/hulk-skills): A curated collection of reusable AI skills for Codex and Claude Code
+- 🔧 [efficient_tools](https://github.com/Moosphan/efficient_tools): Small and sharp utilities for daily developer work
+- 📚 [Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview): A long-running Android knowledge series and interview note set
