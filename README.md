@@ -11,6 +11,7 @@
 
 ### projects
 
+- 🎙️ [flutter_edge_tts](https://github.com/Moosphan/flutter_edge_tts): A free Flutter TTS package powered by Microsoft Edge online speech synthesis.
 - ⚡ [FlashResume](https://github.com/Moosphan/FlashResume): Open-source, privacy-first online resume builder with multi-template editing, live preview, and PDF/image/JSON export
 - 🚀 [hulk-skills](https://github.com/Moosphan/hulk-skills): A curated collection of reusable AI skills for Codex and Claude Code
 - 🔧 [efficient_tools](https://github.com/Moosphan/efficient_tools): Small and sharp utilities for daily developer work
