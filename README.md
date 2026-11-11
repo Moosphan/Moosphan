@@ -9,7 +9,6 @@
 
 **Android / Flutter Developer · Open Source Maintainer**
 
-<img height="190px" src="assets/stats.svg" alt="GitHub stats" />
-<img height="190px" src="assets/hours.svg" alt="Commits per day hour" />
+<img src="assets/stats-row.svg" alt="GitHub stats and commit hours" width="100%" />
 
 </div>

@@ -80,7 +80,7 @@ def stats_card():
         f'<text x="{cx}" y="{cy + 9}" text-anchor="middle" font-family="{FONT}" font-size="26" font-weight="700" fill="{GREEN}">'
         f'{DATA["rank"]}</text>'
     )
-    return kit.card(400, 190, "".join(body))
+    return "".join(body)
 
 
 def hours_card():
@@ -117,7 +117,26 @@ def hours_card():
         f'<text x="200" y="{y1 + 30}" text-anchor="middle" font-family="{FONT}" font-size="8.5" fill="{DIM}">'
         f'per day hour · {DATA["commits_sampled"]:,} sampled commits</text>'
     )
-    return kit.card(400, 190, "".join(parts))
+    return "".join(parts)
+
+
+def panel(x, width, height, body):
+    return (
+        f'<g transform="translate({x},0)">'
+        f'<rect x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="9" fill="{BG}" stroke="{BORDER}"/>'
+        f'{body}</g>'
+    )
+
+
+def row_svg():
+    """Both cards in one canvas so they never wrap on narrow layouts."""
+    width, height, gap = 820, 190, 12
+    half = (width - gap) // 2
+    body = panel(0, half, height, stats_card()) + panel(half + gap, half, height, hours_card())
+    return (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
+        f'viewBox="0 0 {width} {height}" role="img">{body}</svg>\n'
+    )
 
 
 def preview(body_html):
@@ -137,14 +156,13 @@ def preview(body_html):
 
 def main():
     (ROOT / "assets").mkdir(exist_ok=True)
-    (ROOT / "assets" / "stats.svg").write_text(stats_card(), encoding="utf-8")
-    (ROOT / "assets" / "hours.svg").write_text(hours_card(), encoding="utf-8")
+    (ROOT / "assets" / "stats-row.svg").write_text(row_svg(), encoding="utf-8")
 
     md_text = (ROOT / "README.md").read_text(encoding="utf-8")
     md_text = md_text.replace('<div align="center">', '<div align="center" markdown="1">')
     body = markdown.markdown(md_text, extensions=["tables", "fenced_code", "md_in_html"])
     (ROOT / "preview.html").write_text(preview(body), encoding="utf-8")
-    print("built assets/stats.svg, assets/hours.svg, preview.html")
+    print("built assets/stats-row.svg, preview.html")
 
 
 if __name__ == "__main__":
