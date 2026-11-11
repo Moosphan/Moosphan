@@ -59,18 +59,18 @@ def stats_card():
         ("repo", "Contributed to (last year)", f'{DATA["contributed_to"]:,}'),
     ]
     body = [
-        f'<text x="24" y="34" font-family="{FONT}" font-size="15" font-weight="700" fill="{PURPLE}">'
+        f'<text x="22" y="34" font-family="{FONT}" font-size="15" font-weight="700" fill="{PURPLE}">'
         f'{DATA["display_name"]}\'s GitHub Stats</text>'
     ]
     for i, (icon, label, value) in enumerate(rows):
         y = 64 + i * 24
         body.append(
-            f'<g transform="translate(24,{y - 9})">{ICONS[icon].format(c=BLUE)}</g>'
-            f'<text x="46" y="{y}" font-family="{FONT}" font-size="11.5" fill="{TEAL}">{label}</text>'
-            f'<text x="300" y="{y}" text-anchor="end" font-family="{FONT}" font-size="11.5" font-weight="600" fill="{PURPLE}">{value}</text>'
+            f'<g transform="translate(22,{y - 9})">{ICONS[icon].format(c=BLUE)}</g>'
+            f'<text x="44" y="{y}" font-family="{FONT}" font-size="11.5" fill="{TEAL}">{label}</text>'
+            f'<text x="280" y="{y}" text-anchor="end" font-family="{FONT}" font-size="11.5" font-weight="600" fill="{PURPLE}">{value}</text>'
         )
 
-    cx, cy, r = 368, 100, 40
+    cx, cy, r = 344, 102, 37
     circumference = 2 * 3.141592653589793 * r
     body.append(
         f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{BORDER}" stroke-width="7"/>'
@@ -80,7 +80,7 @@ def stats_card():
         f'<text x="{cx}" y="{cy + 9}" text-anchor="middle" font-family="{FONT}" font-size="26" font-weight="700" fill="{GREEN}">'
         f'{DATA["rank"]}</text>'
     )
-    return kit.card(430, 190, "".join(body))
+    return kit.card(400, 190, "".join(body))
 
 
 def hours_card():
@@ -88,10 +88,10 @@ def hours_card():
     peak = max(hours)
     ymax = 20 * ((peak + 19) // 20) or 20
 
-    x0, x1, y0, y1 = 58, 404, 50, 148
+    x0, x1, y0, y1 = 54, 374, 50, 148
     slot = (x1 - x0) / 24
     parts = [
-        f'<text x="215" y="34" text-anchor="middle" font-family="{FONT}" font-size="15" font-weight="700" fill="{PURPLE}">'
+        f'<text x="200" y="34" text-anchor="middle" font-family="{FONT}" font-size="15" font-weight="700" fill="{PURPLE}">'
         f'Commits (UTC +8.00)</text>'
     ]
     for tick in range(0, ymax + 1, ymax // 5):
@@ -114,10 +114,10 @@ def hours_card():
             f'font-family="{FONT}" font-size="8" fill="{DIM}">{h}</text>'
         )
     parts.append(
-        f'<text x="215" y="{y1 + 30}" text-anchor="middle" font-family="{FONT}" font-size="8.5" fill="{DIM}">'
+        f'<text x="200" y="{y1 + 30}" text-anchor="middle" font-family="{FONT}" font-size="8.5" fill="{DIM}">'
         f'per day hour · {DATA["commits_sampled"]:,} sampled commits</text>'
     )
-    return kit.card(430, 190, "".join(parts))
+    return kit.card(400, 190, "".join(parts))
 
 
 def preview(body_html):
