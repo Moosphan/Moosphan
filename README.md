@@ -1,18 +1,15 @@
-<p align="center">
-  <img src="./assets/profile-hero-neural.svg" alt="Moosphan neural lattice profile hero" width="100%" />
-</p>
+<div align="center">
 
-### about me
+# 👋 Hi, I'm Ziya
 
-- 🧑‍💻 You can call me: Dorck Su
-- ✍️ writing: [dorck.cn](https://dorck.cn/) & [掘金](https://juejin.cn/user/2946346891100285) for notes, essays, and things I am building
-- 🛠️ work for: AI writing systems, agent skills, developer tools
-- 🧩 background: Android craft, Flutter, Kotlin, and TypeScript
+[![Followers](https://img.shields.io/github/followers/Moosphan?style=flat-square&logo=github&label=Followers&color=24292f)](https://github.com/Moosphan?tab=followers)
+[![Stars](https://img.shields.io/github/stars/Moosphan?style=flat-square&logo=github&label=Stars&color=e3b341)](https://github.com/Moosphan?tab=repositories&sort=stargazers)
+[![Blog](https://img.shields.io/badge/Blog-dorck.cn-2f80ed?style=flat-square&logo=safari&logoColor=white)](https://dorck.cn)
+[![Email](https://img.shields.io/badge/Email-moosphon%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:moosphon@gmail.com)
 
-### projects
+**Android / Flutter Developer · Open Source Maintainer**
 
-- 🎙️ [flutter_edge_tts](https://github.com/Moosphan/flutter_edge_tts): A free Flutter TTS package powered by Microsoft Edge online speech synthesis.
-- ⚡ [FlashResume](https://github.com/Moosphan/FlashResume): Open-source, privacy-first online resume builder with multi-template editing, live preview, and PDF/image/JSON export
-- 🚀 [hulk-skills](https://github.com/Moosphan/hulk-skills): A curated collection of reusable AI skills for Codex and Claude Code
-- 🔧 [efficient_tools](https://github.com/Moosphan/efficient_tools): Small and sharp utilities for daily developer work
-- 📚 [Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview): A long-running Android knowledge series and interview note set
+<img height="190px" src="assets/stats.svg" alt="GitHub stats" />
+<img height="190px" src="assets/hours.svg" alt="Commits per day hour" />
+
+</div>
