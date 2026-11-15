@@ -3,17 +3,17 @@
  "name": "Hulk Su",
  "location": "Shanghai",
  "since": 2017,
- "followers": 290,
+ "followers": 289,
  "public_repos": 126,
  "own_repos": 52,
  "stars": 6968,
  "forks": 1006,
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "languages": {
   "Kotlin": 11,
   "Java": 9,
-  "Python": 6,
   "JavaScript": 6,
+  "Python": 6,
   "TypeScript": 3,
   "Dart": 3,
   "Swift": 2,
@@ -24,34 +24,6 @@
  "contributions": 1199,
  "pull_requests": 39,
  "days": [
-  [
-   "2025-11-09",
-   0
-  ],
-  [
-   "2025-11-10",
-   0
-  ],
-  [
-   "2025-11-11",
-   0
-  ],
-  [
-   "2025-11-12",
-   0
-  ],
-  [
-   "2025-11-13",
-   0
-  ],
-  [
-   "2025-11-14",
-   0
-  ],
-  [
-   "2025-11-15",
-   0
-  ],
   [
    "2025-11-16",
    0
@@ -1507,6 +1479,10 @@
   [
    "2026-11-14",
    1
+  ],
+  [
+   "2026-11-15",
+   0
   ]
  ],
  "commits": 1602,
