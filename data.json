@@ -3,7 +3,7 @@
  "name": "Hulk Su",
  "location": "Shanghai",
  "since": 2017,
- "followers": 288,
+ "followers": 287,
  "public_repos": 126,
  "own_repos": 52,
  "stars": 6970,
@@ -21,7 +21,7 @@
   "Shell": 1,
   "HTML": 1
  },
- "contributions": 1352,
+ "contributions": 1355,
  "pull_requests": 39,
  "days": [
   [
@@ -1501,12 +1501,12 @@
    1
   ]
  ],
- "commits": 1616,
+ "commits": 1619,
  "prs": 42,
- "issues": 270,
+ "issues": 271,
  "contributed_to": 21,
  "hours": [
-  17,
+  16,
   7,
   2,
   0,
@@ -1514,15 +1514,15 @@
   0,
   0,
   7,
-  43,
+  42,
   107,
   56,
   54,
   50,
   29,
   36,
-  40,
-  72,
+  41,
+  73,
   52,
   58,
   35,
