@@ -3,12 +3,12 @@
  "name": "Hulk Su",
  "location": "Shanghai",
  "since": 2017,
- "followers": 287,
+ "followers": 288,
  "public_repos": 126,
  "own_repos": 52,
- "stars": 6969,
- "forks": 1006,
- "updated": "2026-11-22",
+ "stars": 6970,
+ "forks": 1007,
+ "updated": "2026-11-23",
  "languages": {
   "Kotlin": 11,
   "Java": 9,
@@ -1483,6 +1483,10 @@
   [
    "2026-11-22",
    1
+  ],
+  [
+   "2026-11-23",
+   0
   ]
  ],
  "commits": 1623,
