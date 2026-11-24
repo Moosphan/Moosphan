@@ -4,15 +4,15 @@
  "location": "Shanghai",
  "since": 2017,
  "followers": 287,
- "public_repos": 126,
+ "public_repos": 127,
  "own_repos": 52,
- "stars": 6970,
- "forks": 1007,
- "updated": "2026-11-23",
+ "stars": 6948,
+ "forks": 1002,
+ "updated": "2026-11-24",
  "languages": {
   "Kotlin": 11,
   "Java": 9,
-  "Python": 6,
+  "Python": 7,
   "JavaScript": 6,
   "TypeScript": 3,
   "Dart": 3,
@@ -21,7 +21,7 @@
   "Shell": 1,
   "HTML": 1
  },
- "contributions": 1385,
+ "contributions": 1411,
  "pull_requests": 39,
  "days": [
   [
@@ -1487,12 +1487,16 @@
   [
    "2026-11-23",
    0
+  ],
+  [
+   "2026-11-24",
+   1
   ]
  ],
- "commits": 1623,
+ "commits": 1638,
  "prs": 43,
- "issues": 272,
- "contributed_to": 21,
+ "issues": 282,
+ "contributed_to": 22,
  "hours": [
   16,
   7,
@@ -1504,22 +1508,22 @@
   7,
   42,
   107,
-  57,
+  58,
   54,
-  50,
+  47,
   29,
   36,
-  41,
-  73,
-  52,
-  58,
+  40,
+  82,
+  54,
+  56,
   35,
   31,
   55,
   64,
-  53
+  50
  ],
- "commits_sampled": 869,
+ "commits_sampled": 872,
  "rank": "A",
  "display_name": "Ziya"
 }
