@@ -8,7 +8,7 @@
  "own_repos": 52,
  "stars": 6948,
  "forks": 1002,
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "languages": {
   "Kotlin": 11,
   "Java": 9,
@@ -21,7 +21,7 @@
   "Shell": 1,
   "HTML": 1
  },
- "contributions": 1422,
+ "contributions": 1434,
  "pull_requests": 39,
  "days": [
   [
@@ -1491,11 +1491,15 @@
   [
    "2026-11-24",
    2
+  ],
+  [
+   "2026-11-25",
+   1
   ]
  ],
  "commits": 1649,
- "prs": 43,
- "issues": 282,
+ "prs": 44,
+ "issues": 293,
  "contributed_to": 22,
  "hours": [
   16,
@@ -1507,23 +1511,23 @@
   0,
   7,
   42,
-  107,
+  106,
   58,
   54,
   47,
-  29,
+  27,
   36,
   40,
   82,
-  54,
+  53,
   56,
   37,
-  39,
-  56,
+  35,
+  54,
   64,
   50
  ],
- "commits_sampled": 883,
+ "commits_sampled": 873,
  "rank": "A",
  "display_name": "Ziya"
 }
